@@ -19,6 +19,6 @@ Template 2
 
 Matched with original image 2
 
-<img src="https://user-images.githubusercontent.com/54182948/174856016-c60a8632-aae0-4ae2-832a-3b93258858d4.PNG" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/TemplateMatching/Example%20-%20Matched%202.png" width="600" height="400" />
+<img src="https://user-images.githubusercontent.com/54182948/174857562-840048dd-dc97-4cc0-94fa-04e37046437f.jpeg" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/TemplateMatching/Example%20-%20Matched%202.png" width="600" height="400" />
 
 
